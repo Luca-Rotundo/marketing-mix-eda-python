@@ -11,7 +11,8 @@ The goal is to explore the relationship between marketing impressions and sales,
 ## Repository Structure
 
 - `LucaRotundoReal.ipynb`: Jupyter Notebook containing the full analysis
-- `data/`: dataset used for the analysis, if available
+- `data/Sample Media Spend Data.csv`: dataset used for the analysis
+- `README.md`: project overview and instructions
 
 ## Dataset
 
