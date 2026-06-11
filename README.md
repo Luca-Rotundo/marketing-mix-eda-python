@@ -46,6 +46,6 @@ Then run the notebook cells in order.
 This project is based on exploratory data analysis.
 The results should be interpreted as associations and observed patterns, not as causal evidence.
 
-##Author
+## Author
 
 Luca Rotundo
